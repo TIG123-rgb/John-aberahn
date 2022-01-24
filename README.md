@@ -2,7 +2,7 @@
 - 👀 I’m interested in text to speech research
 - 🌱 I’m currently learning my msc class
 - 💞️ I’m looking to collaborate on artificial intelligence researches
-- 📫 How to reach me tahirisse57@gmail.com
+- 📫 How to reach me TIg@gmail.com
 
 <!---
 TIG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
