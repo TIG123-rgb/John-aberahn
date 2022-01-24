@@ -5,6 +5,6 @@
 - 📫 How to reach me tahirisse57@gmail.com
 
 <!---
-Tahiribrahimgeedi/Tahiribrahimgeedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TIG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
