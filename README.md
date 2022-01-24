@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tahir ibrahim geedi
+- 👋 Hi, I’m @TIG
 - 👀 I’m interested in text to speech research
 - 🌱 I’m currently learning my msc class
 - 💞️ I’m looking to collaborate on artificial intelligence researches
